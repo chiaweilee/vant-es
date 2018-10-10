@@ -1,6 +1,9 @@
 /*! +v vant-es */
 import Vue from 'vue'
 
+import(`vant/es/vant-css/toast.css`)
+Vue.use(require('vant/es/toast').default)
+
 const vant = {
     // comment out module(s) you don't need
     'actionsheet': require('vant/es/actionsheet').default,
@@ -67,7 +70,6 @@ const vant = {
     'tabbar-item': require('vant/es/tabbar-item').default,
     'tabs': require('vant/es/tabs').default,
     'tag': require('vant/es/tag').default,
-    'toast': require('vant/es/toast').default,
     'tree-select': require('vant/es/tree-select').default,
     'uploader': require('vant/es/uploader').default,
     'waterfall': require('vant/es/waterfall').default
