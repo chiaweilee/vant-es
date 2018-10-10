@@ -3,7 +3,10 @@ Use Vant as ES Modules
 
 # Install
 
-> Copy vant.js to your project
+```js
+npm install vant
+```
+* Then, *copy vant.js to your project*.
 
 # Usage
 ```js
