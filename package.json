@@ -1,0 +1,19 @@
+{
+  "name": "vant-es",
+  "version": "1.0.0",
+  "description": "Use Vant Modules as you wish",
+  "main": "vant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiaweilee/vant-es.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiaweilee/vant-es/issues"
+  },
+  "homepage": "https://github.com/chiaweilee/vant-es#readme"
+}
