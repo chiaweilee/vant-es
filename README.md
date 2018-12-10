@@ -1,4 +1,7 @@
 # Vant-ES
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/chiaweilee/vant-es.svg)](https://greenkeeper.io/)
+
 Use Vant as ES Modules
 
 # Install
